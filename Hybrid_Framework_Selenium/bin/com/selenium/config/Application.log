@@ -1,0 +1,540 @@
+2019-01-22 14:54:18 INFO  Logs:13 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 14:54:18 ERROR Logs:33 - ..........null
+2019-01-22 14:54:18 INFO  Logs:23 - Opening FirefoxBrowser
+2019-01-22 14:54:26 INFO  Logs:23 - Navigating to the Website
+2019-01-22 14:54:27 INFO  Logs:23 - Writing Username
+2019-01-22 14:54:27 INFO  Logs:18 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 14:54:27 ERROR Logs:33 - ..........null
+2019-01-22 14:54:27 INFO  Logs:13 - ******** Starting TC_002_LogIn ***********
+2019-01-22 14:54:27 INFO  Logs:23 - Writing Username
+2019-01-22 14:54:27 INFO  Logs:23 - Entering Password
+2019-01-22 14:54:29 INFO  Logs:23 - Clicking on element
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 INFO  Logs:18 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 INFO  Logs:13 - ******** Starting TC_003_RegisterNewUser ***********
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 INFO  Logs:18 - ******** ENDing TC_003_RegisterNewUser ***********
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 INFO  Logs:13 - ******** Starting TC_004_Login ***********
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 ERROR Logs:33 - ..........null
+2019-01-22 14:54:31 INFO  Logs:18 - ******** ENDing TC_004_Login ***********
+2019-01-22 14:56:40 INFO  Logs:13 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 14:56:40 ERROR Logs:33 - ..........null
+2019-01-22 14:56:40 INFO  Logs:23 - Opening FirefoxBrowser
+2019-01-22 14:56:48 INFO  Logs:23 - Navigating to the Website
+2019-01-22 14:56:49 INFO  Logs:23 - Writing Username
+2019-01-22 14:56:50 INFO  Logs:18 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 14:56:50 ERROR Logs:33 - ..........null
+2019-01-22 14:56:50 INFO  Logs:13 - ******** Starting TC_002_LogIn ***********
+2019-01-22 14:56:50 INFO  Logs:23 - Writing Username
+2019-01-22 14:56:50 INFO  Logs:23 - Entering Password
+2019-01-22 14:56:50 INFO  Logs:23 - Clicking on element
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 INFO  Logs:18 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 INFO  Logs:13 - ******** Starting TC_003_RegisterNewUser ***********
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 INFO  Logs:18 - ******** ENDing TC_003_RegisterNewUser ***********
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 INFO  Logs:13 - ******** Starting TC_004_Login ***********
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 ERROR Logs:33 - ..........null
+2019-01-22 14:56:51 INFO  Logs:18 - ******** ENDing TC_004_Login ***********
+2019-01-22 15:00:47 INFO  Logs:13 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 15:00:47 ERROR Logs:33 - ..........null
+2019-01-22 15:00:47 INFO  Logs:23 - Opening FirefoxBrowser
+2019-01-22 15:00:55 INFO  Logs:23 - Navigating to the Website
+2019-01-22 15:00:57 INFO  Logs:23 - Writing Username
+2019-01-22 15:00:57 INFO  Logs:18 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 15:00:57 ERROR Logs:33 - ..........null
+2019-01-22 15:00:57 INFO  Logs:13 - ******** Starting TC_002_LogIn ***********
+2019-01-22 15:00:57 INFO  Logs:23 - Writing Username
+2019-01-22 15:00:58 INFO  Logs:23 - Entering Password
+2019-01-22 15:00:58 INFO  Logs:23 - Clicking on elementSign in
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 INFO  Logs:18 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 INFO  Logs:13 - ******** Starting TC_003_RegisterNewUser ***********
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 INFO  Logs:18 - ******** ENDing TC_003_RegisterNewUser ***********
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 INFO  Logs:13 - ******** Starting TC_004_Login ***********
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 ERROR Logs:33 - ..........null
+2019-01-22 15:01:00 INFO  Logs:18 - ******** ENDing TC_004_Login ***********
+2019-01-22 15:02:57 INFO  Logs:13 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 15:02:57 ERROR Logs:33 - ..........null
+2019-01-22 15:02:57 INFO  Logs:23 - Opening FirefoxBrowser
+2019-01-22 15:03:15 INFO  Logs:23 - Navigating to the Website
+2019-01-22 15:03:17 INFO  Logs:23 - Writing Username
+2019-01-22 15:03:17 INFO  Logs:18 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 15:03:17 ERROR Logs:33 - ..........null
+2019-01-22 15:03:17 INFO  Logs:13 - ******** Starting TC_002_LogIn ***********
+2019-01-22 15:03:17 INFO  Logs:23 - Writing Username
+2019-01-22 15:03:17 INFO  Logs:23 - Entering Password
+2019-01-22 15:03:18 INFO  Logs:23 - Clicking on element $$$$Sign in$$$$
+2019-01-22 15:03:19 ERROR Logs:33 - ..........null
+2019-01-22 15:03:19 ERROR Logs:33 - ..........null
+2019-01-22 15:03:19 INFO  Logs:18 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 15:03:19 ERROR Logs:33 - ..........null
+2019-01-22 15:03:19 ERROR Logs:33 - ..........null
+2019-01-22 15:03:19 ERROR Logs:33 - ..........null
+2019-01-22 15:03:19 ERROR Logs:33 - ..........null
+2019-01-22 15:08:19 INFO  Logs:13 - ********************************************
+2019-01-22 15:08:19 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 15:08:19 INFO  Logs:15 - ********************************************
+2019-01-22 15:08:19 ERROR Logs:37 - ..........null
+2019-01-22 15:08:19 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 15:08:26 INFO  Logs:27 - Navigating to the Website
+2019-01-22 15:08:29 INFO  Logs:27 - Writing Username
+2019-01-22 15:08:29 INFO  Logs:20 - ********************************************
+2019-01-22 15:08:29 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 15:08:29 INFO  Logs:22 - ********************************************
+2019-01-22 15:08:29 ERROR Logs:37 - ..........null
+2019-01-22 15:08:29 INFO  Logs:13 - ********************************************
+2019-01-22 15:08:29 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 15:08:29 INFO  Logs:15 - ********************************************
+2019-01-22 15:08:29 INFO  Logs:27 - Writing Username
+2019-01-22 15:08:29 INFO  Logs:27 - Entering Password
+2019-01-22 15:08:29 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 15:08:31 ERROR Logs:37 - ..........null
+2019-01-22 15:08:31 ERROR Logs:37 - ..........null
+2019-01-22 15:08:31 INFO  Logs:20 - ********************************************
+2019-01-22 15:08:31 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 15:08:31 INFO  Logs:22 - ********************************************
+2019-01-22 15:08:31 ERROR Logs:37 - ..........null
+2019-01-22 15:08:31 ERROR Logs:37 - ..........null
+2019-01-22 15:08:31 ERROR Logs:37 - ..........null
+2019-01-22 15:08:31 ERROR Logs:37 - ..........null
+2019-01-22 15:40:52 ERROR Logs:37 - ..........null
+2019-01-22 15:44:01 INFO  Logs:13 - ********************************************
+2019-01-22 15:44:01 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 15:44:01 INFO  Logs:15 - ********************************************
+2019-01-22 15:44:14 ERROR Logs:37 - ..........null
+2019-01-22 15:44:16 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 15:45:15 INFO  Logs:27 - Navigating to the Website
+2019-01-22 15:45:34 INFO  Logs:20 - ********************************************
+2019-01-22 15:45:34 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 15:45:34 INFO  Logs:22 - ********************************************
+2019-01-22 15:47:30 ERROR Logs:37 - ..........null
+2019-01-22 15:56:20 INFO  Logs:13 - ********************************************
+2019-01-22 15:56:20 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 15:56:20 INFO  Logs:15 - ********************************************
+2019-01-22 15:56:23 ERROR Logs:37 - ..........null
+2019-01-22 15:56:24 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 15:57:23 INFO  Logs:27 - Navigating to the Website
+2019-01-22 15:57:32 INFO  Logs:20 - ********************************************
+2019-01-22 15:57:32 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 15:57:32 INFO  Logs:22 - ********************************************
+2019-01-22 15:58:20 ERROR Logs:37 - ..........null
+2019-01-22 16:10:36 INFO  Logs:13 - ********************************************
+2019-01-22 16:10:37 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 16:10:37 INFO  Logs:15 - ********************************************
+2019-01-22 16:10:56 ERROR Logs:37 - ..........null
+2019-01-22 16:10:56 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 16:11:50 INFO  Logs:27 - Navigating to the Website
+2019-01-22 16:11:58 INFO  Logs:20 - ********************************************
+2019-01-22 16:11:58 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 16:11:58 INFO  Logs:22 - ********************************************
+2019-01-22 16:14:28 ERROR Logs:37 - ..........null
+2019-01-22 16:16:41 INFO  Logs:13 - ********************************************
+2019-01-22 16:16:41 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 16:16:41 INFO  Logs:15 - ********************************************
+2019-01-22 16:17:09 INFO  Logs:27 - Writing Username
+2019-01-22 16:17:19 INFO  Logs:27 - Entering Password
+2019-01-22 16:17:23 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 16:17:29 INFO  Logs:20 - ********************************************
+2019-01-22 16:17:29 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 16:17:29 INFO  Logs:22 - ********************************************
+2019-01-22 16:17:32 ERROR Logs:37 - ..........null
+2019-01-22 16:17:32 ERROR Logs:37 - ..........null
+2019-01-22 16:17:36 ERROR Logs:37 - ..........null
+2019-01-22 16:17:36 ERROR Logs:37 - ..........null
+2019-01-22 16:17:37 ERROR Logs:37 - ..........null
+2019-01-22 16:17:37 ERROR Logs:37 - ..........null
+2019-01-22 16:17:37 ERROR Logs:37 - ..........null
+2019-01-22 16:17:38 ERROR Logs:37 - ..........null
+2019-01-22 16:17:38 ERROR Logs:37 - ..........null
+2019-01-22 16:17:38 ERROR Logs:37 - ..........null
+2019-01-22 16:17:39 ERROR Logs:37 - ..........null
+2019-01-22 16:17:39 ERROR Logs:37 - ..........null
+2019-01-22 16:17:40 ERROR Logs:37 - ..........null
+2019-01-22 16:17:40 ERROR Logs:37 - ..........null
+2019-01-22 16:17:41 ERROR Logs:37 - ..........null
+2019-01-22 16:17:41 ERROR Logs:37 - ..........null
+2019-01-22 16:17:41 ERROR Logs:37 - ..........null
+2019-01-22 16:17:42 ERROR Logs:37 - ..........null
+2019-01-22 16:17:42 ERROR Logs:37 - ..........null
+2019-01-22 16:17:42 ERROR Logs:37 - ..........null
+2019-01-22 16:17:43 ERROR Logs:37 - ..........null
+2019-01-22 16:17:43 ERROR Logs:37 - ..........null
+2019-01-22 16:17:44 ERROR Logs:37 - ..........null
+2019-01-22 16:17:44 ERROR Logs:37 - ..........null
+2019-01-22 16:17:44 ERROR Logs:37 - ..........null
+2019-01-22 16:17:45 ERROR Logs:37 - ..........null
+2019-01-22 16:17:45 ERROR Logs:37 - ..........null
+2019-01-22 16:17:45 ERROR Logs:37 - ..........null
+2019-01-22 16:17:46 ERROR Logs:37 - ..........null
+2019-01-22 16:17:46 ERROR Logs:37 - ..........null
+2019-01-22 16:17:47 ERROR Logs:37 - ..........null
+2019-01-22 16:17:47 ERROR Logs:37 - ..........null
+2019-01-22 16:17:48 ERROR Logs:37 - ..........null
+2019-01-22 16:17:48 ERROR Logs:37 - ..........null
+2019-01-22 16:17:49 ERROR Logs:37 - ..........null
+2019-01-22 16:17:49 ERROR Logs:37 - ..........null
+2019-01-22 16:18:11 INFO  Logs:13 - ********************************************
+2019-01-22 16:18:11 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 16:18:11 INFO  Logs:15 - ********************************************
+2019-01-22 16:18:11 ERROR Logs:37 - ..........null
+2019-01-22 16:18:11 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 16:18:18 INFO  Logs:27 - Navigating to the Website
+2019-01-22 16:18:21 INFO  Logs:20 - ********************************************
+2019-01-22 16:18:21 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 16:18:21 INFO  Logs:22 - ********************************************
+2019-01-22 16:18:21 ERROR Logs:37 - ..........null
+2019-01-22 16:18:21 INFO  Logs:13 - ********************************************
+2019-01-22 16:18:21 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 16:18:21 INFO  Logs:15 - ********************************************
+2019-01-22 16:18:21 INFO  Logs:27 - Writing Username
+2019-01-22 16:18:21 INFO  Logs:27 - Entering Password
+2019-01-22 16:18:21 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 16:18:38 INFO  Logs:20 - ********************************************
+2019-01-22 16:18:38 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 16:18:38 INFO  Logs:22 - ********************************************
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:18:38 ERROR Logs:37 - ..........null
+2019-01-22 16:21:02 INFO  Logs:13 - ********************************************
+2019-01-22 16:21:02 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 16:21:02 INFO  Logs:15 - ********************************************
+2019-01-22 16:21:02 ERROR Logs:37 - ..........null
+2019-01-22 16:21:02 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 16:21:10 INFO  Logs:27 - Navigating to the Website
+2019-01-22 16:21:13 INFO  Logs:20 - ********************************************
+2019-01-22 16:21:13 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 16:21:13 INFO  Logs:22 - ********************************************
+2019-01-22 16:21:13 ERROR Logs:37 - ..........null
+2019-01-22 16:21:13 INFO  Logs:13 - ********************************************
+2019-01-22 16:21:13 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 16:21:13 INFO  Logs:15 - ********************************************
+2019-01-22 16:21:13 INFO  Logs:27 - Writing Username
+2019-01-22 16:21:13 INFO  Logs:27 - Entering Password
+2019-01-22 16:21:13 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 16:21:15 INFO  Logs:20 - ********************************************
+2019-01-22 16:21:15 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 16:21:15 INFO  Logs:22 - ********************************************
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 16:21:15 ERROR Logs:37 - ..........null
+2019-01-22 17:27:06 INFO  Logs:13 - ********************************************
+2019-01-22 17:27:06 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 17:27:06 INFO  Logs:15 - ********************************************
+2019-01-22 17:27:06 ERROR Logs:37 - ..........null
+2019-01-22 17:27:06 ERROR Logs:37 - ..........null
+2019-01-22 17:27:06 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 17:27:55 ERROR Logs:37 - ..........null
+2019-01-22 17:27:55 INFO  Logs:27 - Navigating to the Website
+2019-01-22 17:28:02 INFO  Logs:20 - ********************************************
+2019-01-22 17:28:02 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 17:28:02 INFO  Logs:22 - ********************************************
+2019-01-22 17:28:02 INFO  Logs:13 - ********************************************
+2019-01-22 17:28:02 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 17:28:02 INFO  Logs:15 - ********************************************
+2019-01-22 17:28:02 ERROR Logs:37 - ..........null
+2019-01-22 17:28:02 INFO  Logs:27 - Writing Username
+2019-01-22 17:28:03 ERROR Logs:37 - ..........null
+2019-01-22 17:28:03 INFO  Logs:27 - Entering Password
+2019-01-22 17:28:04 ERROR Logs:37 - ..........null
+2019-01-22 17:28:04 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 17:28:27 INFO  Logs:20 - ********************************************
+2019-01-22 17:28:27 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 17:28:27 INFO  Logs:22 - ********************************************
+2019-01-22 17:28:27 ERROR Logs:37 - ..........null
+2019-01-22 17:28:27 INFO  Logs:13 - ********************************************
+2019-01-22 17:28:27 INFO  Logs:14 - ******** Starting TC_003_Search ***********
+2019-01-22 17:28:27 INFO  Logs:15 - ********************************************
+2019-01-22 17:28:27 INFO  Logs:27 - Entering Accenture in search box
+2019-01-22 17:28:27 ERROR Logs:37 - Unable to input Accenture in search box fieldUnable to locate element: //input[@placeholder='search'][@type='text']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: 'RICHA', ip: '192.168.0.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0.2, capabilities: {desiredCapabilities: {acceptInsecureCerts: true, browserName: firefox}}, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 4408, moz:profile: C:\Users\Richa Agarwal\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c706f0d2-3ea1-4714-9396-8a6a86b92759
+*** Element info: {Using=xpath, value=//input[@placeholder='search'][@type='text']}
+2019-01-22 17:28:27 ERROR Logs:37 - ..........null
+2019-01-22 17:31:18 INFO  Logs:13 - ********************************************
+2019-01-22 17:31:18 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 17:31:18 INFO  Logs:15 - ********************************************
+2019-01-22 17:31:18 ERROR Logs:37 - ..........null
+2019-01-22 17:31:18 ERROR Logs:37 - ..........null
+2019-01-22 17:31:18 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 17:31:34 ERROR Logs:37 - ..........null
+2019-01-22 17:31:34 INFO  Logs:27 - Navigating to the Website
+2019-01-22 17:31:36 INFO  Logs:20 - ********************************************
+2019-01-22 17:31:36 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 17:31:36 INFO  Logs:22 - ********************************************
+2019-01-22 17:31:36 INFO  Logs:13 - ********************************************
+2019-01-22 17:31:36 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 17:31:36 INFO  Logs:15 - ********************************************
+2019-01-22 17:31:36 ERROR Logs:37 - ..........null
+2019-01-22 17:31:36 INFO  Logs:27 - Writing Username
+2019-01-22 17:31:37 ERROR Logs:37 - ..........null
+2019-01-22 17:31:37 INFO  Logs:27 - Entering Password
+2019-01-22 17:31:37 ERROR Logs:37 - ..........null
+2019-01-22 17:31:37 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 17:31:58 INFO  Logs:20 - ********************************************
+2019-01-22 17:31:58 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 17:31:58 INFO  Logs:22 - ********************************************
+2019-01-22 17:31:58 ERROR Logs:37 - ..........null
+2019-01-22 17:31:58 INFO  Logs:13 - ********************************************
+2019-01-22 17:31:58 INFO  Logs:14 - ******** Starting TC_003_Search ***********
+2019-01-22 17:31:58 INFO  Logs:15 - ********************************************
+2019-01-22 17:31:58 INFO  Logs:27 - Entering Accenture in search box
+2019-01-22 17:31:58 ERROR Logs:37 - Unable to input Accenture in search box fieldUnable to locate element: //artdeco-typeahead-deprecated-input[@id='ember47']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: 'RICHA', ip: '192.168.0.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0.2, capabilities: {desiredCapabilities: {acceptInsecureCerts: true, browserName: firefox}}, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 11372, moz:profile: C:\Users\Richa Agarwal\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1ad796fe-0a1d-425f-a7fe-59f6e9e40030
+*** Element info: {Using=xpath, value=//artdeco-typeahead-deprecated-input[@id='ember47']}
+2019-01-22 17:31:58 ERROR Logs:37 - ..........null
+2019-01-22 17:36:06 INFO  Logs:13 - ********************************************
+2019-01-22 17:36:06 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 17:36:06 INFO  Logs:15 - ********************************************
+2019-01-22 17:36:06 ERROR Logs:37 - ..........null
+2019-01-22 17:36:06 ERROR Logs:37 - ..........null
+2019-01-22 17:36:06 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 17:36:25 ERROR Logs:37 - ..........null
+2019-01-22 17:36:25 INFO  Logs:27 - Navigating to the Website
+2019-01-22 17:36:27 INFO  Logs:20 - ********************************************
+2019-01-22 17:36:27 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 17:36:27 INFO  Logs:22 - ********************************************
+2019-01-22 17:36:27 INFO  Logs:13 - ********************************************
+2019-01-22 17:36:27 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 17:36:27 INFO  Logs:15 - ********************************************
+2019-01-22 17:36:27 ERROR Logs:37 - ..........null
+2019-01-22 17:36:27 INFO  Logs:27 - Writing Username
+2019-01-22 17:36:27 ERROR Logs:37 - ..........null
+2019-01-22 17:36:27 INFO  Logs:27 - Entering Password
+2019-01-22 17:36:27 ERROR Logs:37 - ..........null
+2019-01-22 17:36:28 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 17:36:51 INFO  Logs:20 - ********************************************
+2019-01-22 17:36:51 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 17:36:51 INFO  Logs:22 - ********************************************
+2019-01-22 17:36:51 ERROR Logs:37 - ..........null
+2019-01-22 17:36:51 INFO  Logs:13 - ********************************************
+2019-01-22 17:36:51 INFO  Logs:14 - ******** Starting TC_003_Search ***********
+2019-01-22 17:36:51 INFO  Logs:15 - ********************************************
+2019-01-22 17:36:51 INFO  Logs:27 - Entering Accenture in search box
+2019-01-22 17:36:52 ERROR Logs:37 - Unable to input Accenture in search box fieldUnable to locate element: searchText
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: 'RICHA', ip: '192.168.0.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0.2, capabilities: {desiredCapabilities: {acceptInsecureCerts: true, browserName: firefox}}, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 13420, moz:profile: C:\Users\Richa Agarwal\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9ea3fa93-36b2-4234-9aca-cd60dd65dc85
+*** Element info: {Using=xpath, value=searchText}
+2019-01-22 17:36:52 ERROR Logs:37 - ..........null
+2019-01-22 17:36:52 INFO  Logs:27 - Clicking on element $$$$$$$$$ null $$$$$$$$$$
+2019-01-22 17:36:52 INFO  Logs:20 - ********************************************
+2019-01-22 17:36:52 INFO  Logs:21 - ******** ENDing TC_003_Search ***********
+2019-01-22 17:36:52 INFO  Logs:22 - ********************************************
+2019-01-22 17:42:33 INFO  Logs:13 - ********************************************
+2019-01-22 17:42:33 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 17:42:33 INFO  Logs:15 - ********************************************
+2019-01-22 17:42:33 ERROR Logs:37 - ..........null
+2019-01-22 17:42:33 ERROR Logs:37 - ..........null
+2019-01-22 17:42:33 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 17:42:57 ERROR Logs:37 - ..........null
+2019-01-22 17:42:57 INFO  Logs:27 - Navigating to the Website
+2019-01-22 17:43:02 INFO  Logs:20 - ********************************************
+2019-01-22 17:43:02 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 17:43:02 INFO  Logs:22 - ********************************************
+2019-01-22 17:43:02 INFO  Logs:13 - ********************************************
+2019-01-22 17:43:02 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 17:43:02 INFO  Logs:15 - ********************************************
+2019-01-22 17:43:02 ERROR Logs:37 - ..........null
+2019-01-22 17:43:02 INFO  Logs:27 - Writing Username
+2019-01-22 17:43:02 ERROR Logs:37 - ..........null
+2019-01-22 17:43:02 INFO  Logs:27 - Entering Password
+2019-01-22 17:43:02 ERROR Logs:37 - ..........null
+2019-01-22 17:43:02 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 17:43:40 INFO  Logs:20 - ********************************************
+2019-01-22 17:43:40 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 17:43:40 INFO  Logs:22 - ********************************************
+2019-01-22 17:43:40 ERROR Logs:37 - ..........null
+2019-01-22 17:43:40 INFO  Logs:13 - ********************************************
+2019-01-22 17:43:40 INFO  Logs:14 - ******** Starting TC_003_Search ***********
+2019-01-22 17:43:40 INFO  Logs:15 - ********************************************
+2019-01-22 17:43:40 INFO  Logs:27 - Entering Accenture in search box
+2019-01-22 17:43:40 ERROR Logs:37 - Unable to input Accenture in search box fieldUnable to locate element: searchText
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: 'RICHA', ip: '192.168.0.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0.2, capabilities: {desiredCapabilities: {acceptInsecureCerts: true, browserName: firefox}}, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 2808, moz:profile: C:\Users\Richa Agarwal\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0ca9f00b-945e-4a06-977c-22ab41279d68
+*** Element info: {Using=xpath, value=searchText}
+2019-01-22 17:43:40 ERROR Logs:37 - ..........null
+2019-01-22 17:43:40 INFO  Logs:27 - Clicking on element $$$$$$$$$  $$$$$$$$$$
+2019-01-22 17:43:41 INFO  Logs:20 - ********************************************
+2019-01-22 17:43:41 INFO  Logs:21 - ******** ENDing TC_003_Search ***********
+2019-01-22 17:43:41 INFO  Logs:22 - ********************************************
+2019-01-22 17:48:57 INFO  Logs:13 - ********************************************
+2019-01-22 17:48:57 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 17:48:57 INFO  Logs:15 - ********************************************
+2019-01-22 17:48:57 ERROR Logs:37 - ..........null
+2019-01-22 17:48:57 ERROR Logs:37 - ..........null
+2019-01-22 17:48:57 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 17:49:09 ERROR Logs:37 - ..........null
+2019-01-22 17:49:09 INFO  Logs:27 - Navigating to the Website
+2019-01-22 17:49:13 INFO  Logs:20 - ********************************************
+2019-01-22 17:49:13 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 17:49:13 INFO  Logs:22 - ********************************************
+2019-01-22 17:49:13 INFO  Logs:13 - ********************************************
+2019-01-22 17:49:13 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 17:49:13 INFO  Logs:15 - ********************************************
+2019-01-22 17:49:13 ERROR Logs:37 - ..........null
+2019-01-22 17:49:13 INFO  Logs:27 - Writing Username
+2019-01-22 17:49:14 ERROR Logs:37 - ..........null
+2019-01-22 17:49:14 INFO  Logs:27 - Entering Password
+2019-01-22 17:49:14 ERROR Logs:37 - ..........null
+2019-01-22 17:49:15 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 17:49:40 INFO  Logs:20 - ********************************************
+2019-01-22 17:49:40 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 17:49:40 INFO  Logs:22 - ********************************************
+2019-01-22 17:49:40 ERROR Logs:37 - ..........null
+2019-01-22 17:49:40 INFO  Logs:13 - ********************************************
+2019-01-22 17:49:40 INFO  Logs:14 - ******** Starting TC_003_Search ***********
+2019-01-22 17:49:40 INFO  Logs:15 - ********************************************
+2019-01-22 17:49:40 INFO  Logs:27 - Entering Accenture in search box
+2019-01-22 17:49:40 ERROR Logs:37 - Unable to input Accenture in search box fieldUnable to locate element: searchText
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: 'RICHA', ip: '192.168.0.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0.2, capabilities: {desiredCapabilities: {acceptInsecureCerts: true, browserName: firefox}}, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 4452, moz:profile: C:\Users\Richa Agarwal\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 033d1d29-cba4-4368-828a-3a1cfd9609b1
+*** Element info: {Using=xpath, value=searchText}
+2019-01-22 17:49:40 ERROR Logs:37 - ..........null
+2019-01-22 17:49:40 INFO  Logs:27 - Clicking on element $$$$$$$$$  $$$$$$$$$$
+2019-01-22 17:49:40 INFO  Logs:20 - ********************************************
+2019-01-22 17:49:40 INFO  Logs:21 - ******** ENDing TC_003_Search ***********
+2019-01-22 17:49:40 INFO  Logs:22 - ********************************************
+2019-01-22 17:51:35 INFO  Logs:13 - ********************************************
+2019-01-22 17:51:35 INFO  Logs:14 - ******** Starting TC_001_OpenURL ***********
+2019-01-22 17:51:35 INFO  Logs:15 - ********************************************
+2019-01-22 17:51:35 ERROR Logs:37 - ..........null
+2019-01-22 17:51:35 ERROR Logs:37 - ..........null
+2019-01-22 17:51:35 INFO  Logs:27 - Opening FirefoxBrowser
+2019-01-22 17:51:51 ERROR Logs:37 - ..........null
+2019-01-22 17:51:51 INFO  Logs:27 - Navigating to the Website
+2019-01-22 17:51:54 INFO  Logs:20 - ********************************************
+2019-01-22 17:51:54 INFO  Logs:21 - ******** ENDing TC_001_OpenURL ***********
+2019-01-22 17:51:54 INFO  Logs:22 - ********************************************
+2019-01-22 17:51:54 INFO  Logs:13 - ********************************************
+2019-01-22 17:51:54 INFO  Logs:14 - ******** Starting TC_002_LogIn ***********
+2019-01-22 17:51:54 INFO  Logs:15 - ********************************************
+2019-01-22 17:51:54 ERROR Logs:37 - ..........null
+2019-01-22 17:51:54 INFO  Logs:27 - Writing Username
+2019-01-22 17:51:54 ERROR Logs:37 - ..........null
+2019-01-22 17:51:54 INFO  Logs:27 - Entering Password
+2019-01-22 17:51:54 ERROR Logs:37 - ..........null
+2019-01-22 17:51:54 INFO  Logs:27 - Clicking on element $$$$$$$$$ Sign in $$$$$$$$$$
+2019-01-22 17:52:19 INFO  Logs:20 - ********************************************
+2019-01-22 17:52:19 INFO  Logs:21 - ******** ENDing TC_002_LogIn ***********
+2019-01-22 17:52:19 INFO  Logs:22 - ********************************************
+2019-01-22 17:52:19 ERROR Logs:37 - ..........null
+2019-01-22 17:52:19 INFO  Logs:13 - ********************************************
+2019-01-22 17:52:19 INFO  Logs:14 - ******** Starting TC_003_Search ***********
+2019-01-22 17:52:19 INFO  Logs:15 - ********************************************
+2019-01-22 17:52:19 ERROR Logs:37 - ..........null
+2019-01-22 17:52:19 INFO  Logs:27 - Clicking on element $$$$$$$$$  $$$$$$$$$$
+2019-01-22 17:52:19 INFO  Logs:27 - Entering Accenture in search box
+2019-01-22 17:52:19 ERROR Logs:37 - Unable to input Accenture in search box fieldUnable to locate element: searchText
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: 'RICHA', ip: '192.168.0.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0.2, capabilities: {desiredCapabilities: {acceptInsecureCerts: true, browserName: firefox}}, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5352, moz:profile: C:\Users\Richa Agarwal\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a1f25710-e343-40b9-a5af-f411115ab397
+*** Element info: {Using=xpath, value=searchText}
+2019-01-22 17:52:19 INFO  Logs:20 - ********************************************
+2019-01-22 17:52:19 INFO  Logs:21 - ******** ENDing TC_003_Search ***********
+2019-01-22 17:52:19 INFO  Logs:22 - ********************************************
