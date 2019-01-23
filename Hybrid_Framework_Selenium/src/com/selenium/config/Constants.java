@@ -2,8 +2,8 @@ package com.selenium.config;
 
 public class Constants {
 	// List of variables for file and filePath
-	public static final String testCases_path = "C:\\Users\\Richa Agarwal\\eclipse-workspace\\Framework_Icici\\src\\com\\selenium\\config\\Test_Cases.xlsx";
-	public static final String objectRepo_path = "C:\\Users\\Richa Agarwal\\eclipse-workspace\\Framework_Icici\\src\\com\\selenium\\config\\Object.properties";
+	public static final String testCases_path = "Selenium\\Hybrid_Framework_Selenium\\src\\com\\selenium\\config\\Test_Cases.xlsx";
+	public static final String objectRepo_path = "Selenium\\Hybrid_Framework_Selenium\\src\\com\\selenium\\config\\Object.properties";
 	public static final String testCasesFile = "Test_Cases.xlsx";
 	
 	// List of variables for multiple sheets in Test_Cases file
